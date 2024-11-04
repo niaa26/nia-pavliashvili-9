@@ -1,0 +1,46 @@
+@media (max-width: 711px) {
+    header {
+        padding: 9px 38px;
+    }
+
+    .fa-bars {
+        display: block;
+    }
+
+    .header_nav {
+        display: none;
+    }
+
+    .Travel_News {
+        padding: 0 38px;
+    }
+
+    .Travel_News h2 {
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 40px;
+    }
+
+    .Travel_News p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    .Discovery {
+        padding: 40px 38px;
+    }
+
+    .section3 {
+        padding: 40px 38px;
+    }
+
+    .sec3Images article {
+        width: 100%;
+    }
+
+    .sec3img5,
+    .sec3img6 {
+        display: none;
+    }
+}
